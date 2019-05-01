@@ -1,4 +1,4 @@
-# planeoldmap
+# Airport Map of U.S. with Coordinate Reference System
 
 For this project, a chloropeth map of the United States is displayed based on how many airports are located within each state. The locations of airports in each state are also displayed. Upon clicking on each location, the name of that airport is then displayed in a popup message. Each airport location is marked by a paper airplane icon.
 
