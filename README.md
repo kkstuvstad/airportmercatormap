@@ -15,3 +15,15 @@ For the projection, I chose the WGS 1984 Web Mercator projection. The WGS 1984 W
 * Airport Data: Data.gov, https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile
 * US States Data: Mike Bostock: https://bost.ocks.org/mike/, D3: https://d3js.org/
 * Font Awesome Icon: https://fontawesome.com/icons/paper-plane?style=solid
+#### Libraries Used (can be located in index.html code file):
+* https://unpkg.com/leaflet@1.4.0/dist/leaflet.css
+* https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css
+* https://unpkg.com/rbush@2.0.1/rbush.min.js
+* https://unpkg.com/labelgun@6.0.0/lib/labelgun.min.js
+* https://unpkg.com/leaflet@1.4.0/dist/leaflet.js
+* https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js
+* https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
+* https://cdnjs.cloudflare.com/ajax/libs/chroma-js/1.3.4/chroma.min.js
+* https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.4.4/proj4.js
+* https://cdnjs.cloudflare.com/ajax/libs/proj4leaflet/1.0.2/proj4leaflet.min.js
+* https://cloudybay.github.io/leaflet.latlng-graticule/leaflet.latlng-graticule.js
