@@ -10,6 +10,6 @@ For the projection, I chose the WGS 1984 Web Mercator projection. The WGS 1984 W
 * Project based off of Lab 2 of GEOG 4/572 by Bo Zhao of Oregon State University
 * ESRI, "Web Mercator", 2010, https://www.esri.com/events/seminars/bettermaps/~/media/files/pdfs/events/seminars/bettermaps/materials/pdfs/webmercatorsmnrbrochure.pdf
 * Link to projection used: https://spatialreference.org/ref/sr-org/45/
-* Airport Data
-* US States Data
-* Font Awesome Icon
+* Airport Data: Data.gov, https://catalog.data.gov/dataset/usgs-small-scale-dataset-airports-of-the-united-states-201207-shapefile
+* US States Data: Mike Bostock: https://bost.ocks.org/mike/, D3: https://d3js.org/
+* Font Awesome Icon: https://fontawesome.com/icons/paper-plane?style=solid
