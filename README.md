@@ -16,15 +16,15 @@ For the projection, I chose the WGS 1984 Web Mercator projection. The WGS 1984 W
 * US States Data: Mike Bostock: https://bost.ocks.org/mike/, D3: https://d3js.org/
 * Font Awesome Icon: https://fontawesome.com/icons/paper-plane?style=solid
 #### Libraries Used (can be located in index.html code file):
-* https://unpkg.com/leaflet@1.4.0/dist/leaflet.css
-* https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css
-* https://fonts.googleapis.com/css?family=Ubuntu
-* https://unpkg.com/rbush@2.0.1/rbush.min.js
-* https://unpkg.com/labelgun@6.0.0/lib/labelgun.min.js
-* https://unpkg.com/leaflet@1.4.0/dist/leaflet.js
-* https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js
-* https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
-* https://cdnjs.cloudflare.com/ajax/libs/chroma-js/1.3.4/chroma.min.js
-* https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.4.4/proj4.js
-* https://cdnjs.cloudflare.com/ajax/libs/proj4leaflet/1.0.2/proj4leaflet.min.js
-* https://cloudybay.github.io/leaflet.latlng-graticule/leaflet.latlng-graticule.js
+* Leaflet CSS: https://unpkg.com/leaflet@1.4.0/dist/leaflet.css
+* Font Awesome, version 4.7.0: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css
+* Ubuntu Font: https://fonts.googleapis.com/css?family=Ubuntu
+* Rbush.min.js: https://unpkg.com/rbush@2.0.1/rbush.min.js
+* Label Gun: https://unpkg.com/labelgun@6.0.0/lib/labelgun.min.js
+* Leaflet JS: https://unpkg.com/leaflet@1.4.0/dist/leaflet.js
+* Leaflet Ajax: https://cdnjs.cloudflare.com/ajax/libs/leaflet-ajax/2.1.0/leaflet.ajax.min.js
+* jQuery: https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js
+* Chroma.js: https://cdnjs.cloudflare.com/ajax/libs/chroma-js/1.3.4/chroma.min.js
+* Proj4 JS: https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.4.4/proj4.js
+* Proj4 Leaflet: https://cdnjs.cloudflare.com/ajax/libs/proj4leaflet/1.0.2/proj4leaflet.min.js
+* Leaflet Graticule: https://cloudybay.github.io/leaflet.latlng-graticule/leaflet.latlng-graticule.js
