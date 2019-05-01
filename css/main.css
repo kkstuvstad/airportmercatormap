@@ -44,7 +44,7 @@ html, body, #map {
     box-shadow: none;
     font-weight: bold;
     font-size: 12px;
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu';
     text-shadow: 0 0 2px #FFFFFF;
     color: rgba(35, 35, 35, 0.78)
 }
