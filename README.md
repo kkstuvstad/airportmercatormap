@@ -18,6 +18,7 @@ For the projection, I chose the WGS 1984 Web Mercator projection. The WGS 1984 W
 #### Libraries Used (can be located in index.html code file):
 * https://unpkg.com/leaflet@1.4.0/dist/leaflet.css
 * https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css
+* https://fonts.googleapis.com/css?family=Ubuntu
 * https://unpkg.com/rbush@2.0.1/rbush.min.js
 * https://unpkg.com/labelgun@6.0.0/lib/labelgun.min.js
 * https://unpkg.com/leaflet@1.4.0/dist/leaflet.js
