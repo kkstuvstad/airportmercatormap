@@ -96,7 +96,7 @@ L.latlngGraticule({
     opacity: 0.8,
     weight: 1.5,
     color: "#008000", //set color to green
-    font: "16px Arial",
+    font: "16px Ubuntu",
     fontColor: "#800080", //set font color to purple
     zoomInterval: [
         {start: 1, end: 1.5, interval: 2},   //sets interval to 2 degrees for initial zoom level of 1
