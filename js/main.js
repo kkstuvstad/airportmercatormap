@@ -1,3 +1,8 @@
+var hideLabel = function(label){ label.labelObject.style.opacity = 0;}; //used to hide labels if necessary
+var showLabel = function(label){ label.labelObject.style.opacity = 1;}; //used to show labels if necessary
+var labelEngine = new labelgun.default(hideLabel, showLabel);
+var labels = [];
+
 //projection specified for map (WGS 1984 Web Mercator)
 var mycrs = new L.Proj.CRS('SR-ORG:45', //change projection for fitting U.S.
     '+proj=merc +lon_0=0 +k=1 +x_0=0 +y_0=0 +a=6378137 +b=6378137 +units=m +no_defs',
@@ -105,11 +110,6 @@ L.latlngGraticule({
         {start: 6, end: 7, interval: 0.25}   //sets interval to 0.25 degrees for closest space
     ]
 }).addTo(planemap);
-
-var hideLabel = function(label){ label.labelObject.style.opacity = 0;}; //used to hide labels if necessary
-var showLabel = function(label){ label.labelObject.style.opacity = 1;}; //used to show labels if necessary
-var labelEngine = new labelgun.default(hideLabel, showLabel);
-var labels = [];
 
 //creates the state labels
 var states = null;
